@@ -34,7 +34,7 @@
 
 ## 📫 Connect With Me  
 - GitHub: https://github.com/kartikay-sharma06 
-- LinkedIn: https://www.linkedin.com/in-sharmakartikay  
+- LinkedIn: https://www.linkedin.com/in/-sharmakartikay  
 - Email: sharmaskartikay06@gmail.com  
 - Instagram: https://instagram.com/kartikaysharma_19
 
