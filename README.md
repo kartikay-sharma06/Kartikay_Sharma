@@ -36,7 +36,8 @@
 - GitHub: https://github.com/kartikay-sharma06 
 - LinkedIn: https://www.linkedin.com/in/-sharmakartikay  
 - Email: sharmaskartikay06@gmail.com  
-- Instagram: https://instagram.com/kartikaysharma_19
+- Instagram: https://instagram.com/kartikaysharma_19\
+- X: https://x.com/Kartikay777518
 
 ---
 ⭐ Feel free to check out my repositories and projects!
