@@ -12,7 +12,7 @@
 - 🌐 Exploring **Web Development** with  
   - HTML, CSS, JavaScript    
   - AI-integrated Web Development  
--  🌐 Exploring **GenAI** with  
+-  🌐 Exploring **GenAI**
   
 ---
 
