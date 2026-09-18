@@ -7,13 +7,13 @@
 
 ## 🚀 About Me  
 - 💻 Passionate about coding and technology  
-- 🌟 Skilled in **C** and **C++**  
-- 📖 Currently learning **Python** and **Java**  
+- 🌟 Skilled in **Python** **C** and **C++**  
+- 📖 Currently learning **AI**, **DL** and **ML**  
 - 🌐 Exploring **Web Development** with  
-  - HTML, CSS, JavaScript  
-  - Node.js  
+  - HTML, CSS, JavaScript    
   - AI-integrated Web Development  
-
+-  🌐 Exploring **GenAI** with  
+  
 ---
 
 ## 🛠️ Tech Stack  
@@ -26,7 +26,7 @@
 ---
 
 ## 📌 Goals  
-- 🚀 To become a **Full Stack Developer**  
+- 🚀 To become a **AI Developer**  
 - 🤖 To explore **AI-powered web applications**  
 - 🏆 To contribute to **open source projects**  
 
